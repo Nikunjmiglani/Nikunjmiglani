@@ -1,19 +1,17 @@
 # Hi there, I'm Nikunj 👋
 
 <!-- Short and punchy intro -->
-I'm a [Your Profession/Role] passionate about [short list of key interests].
+I'm a Full Stack Developer passionate about all tech.
 
-- 🔭 I’m currently working on: [Project or Goal]
-- 🌱 I’m currently learning: [Tech/Concept]
-- 💬 Ask me about: [Topics you're confident in]
-- 📫 How to reach me: [Email or social media]
-- ⚡ Fun fact: [Something quirky or unique]
+- 🔭 I’m currently working on: Full Stack Developement & Cybersecurity
+- 🌱 I’m currently learning: Cybersecurity and GenAi
+- 📫 How to reach me: niikkunjmiglani@gmail.com
 
 ---
 
 ## 🚀 Tech Stack
 
-![Your Tech Logos Here](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github)
+![Your Tech Logos Here](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,next,kali,linux,cpp,c++,c,metasploitable)
 
 ---
 
@@ -21,8 +19,8 @@ I'm a [Your Profession/Role] passionate about [short list of key interests].
 
 Here are a few things I've worked on:
 
-- [🧠 Project Name](link) – One-liner description.
-- [📱 Project Name](link) – One-liner description.
+- [🧠 FNDP](https://fndp-frontend.vercel.app/) - AI Powered Fake news detector
+- [📱 Whabitr](https://www.whabitr.online/) - Habit tracker with upto 90 days history and streaks feature
 
 Check out [my repositories](https://github.com/Nikunjmiglani?tab=repositories) for more.
 
