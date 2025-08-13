@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nikunj 👋
 
 <!-- Short and punchy intro -->
 I'm a [Your Profession/Role] passionate about [short list of key interests].
