@@ -11,7 +11,7 @@ I'm a Full Stack Developer passionate about all tech.
 
 ## 🚀 Tech Stack
 
-![Your Tech Logos Here](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,next,kali,linux,cpp,c)
+![Your Tech Logos Here](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,next,kali,linux,cpp,c,ts,java)
 
 ---
 
