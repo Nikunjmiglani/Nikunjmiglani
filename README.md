@@ -4,8 +4,8 @@
 I'm a Full Stack Developer passionate about all tech.
 
 - 🔭 I’m currently working on: Full Stack Developement & Cybersecurity
-- 🌱 I’m currently learning: Cybersecurity and GenAi
-- 📫 How to reach me: niikkunjmiglani@gmail.com
+- 🌱 I’m currently learning: Cybersecurity and GenAI
+- 📫 How to reach me: niikkunjmiglani@gmail.com/https://www.nikunj.space
 
 ---
 
