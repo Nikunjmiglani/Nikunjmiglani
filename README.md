@@ -73,14 +73,7 @@
 </p>
 
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
-    <img
-      alt="GitHub Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
-  </picture>
+ 
 
   <br/><br/>
 
