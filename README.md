@@ -47,10 +47,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?Nikunjmiglani=Nikunjmiglani&show_icons=true&count_private=true&rank_icon=github&include_all_commits=false&hide_title=true&hide_border=true&disable_animations=false&cache_seconds=7200" />
+      srcset="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&count_private=true&rank_icon=github&include_all_commits=false&hide_title=true&hide_border=true&disable_animations=false&cache_seconds=7200" />
     <img
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?Nikunjmiglani=Nikunjmiglani&show_icons=true&count_private=true&rank_icon=github&include_all_commits=false&hide_title=true&hide_border=true&disable_animations=false&cache_seconds=7200" />
+      src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&count_private=true&rank_icon=github&include_all_commits=false&hide_title=true&hide_border=true&disable_animations=false&cache_seconds=7200" />
   </picture>
 
   <br/><br/>
@@ -71,10 +71,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?Nikunjmiglani=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
     <img
       alt="GitHub Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?Nikunjmiglani=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&hide_title=true&hide_border=true&area=true&radius=12" />
   </picture>
 
   <br/><br/>
@@ -83,10 +83,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?Nikunjmiglani=Nikunjmiglani&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=380&exclude_repo=dotfiles" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=380&exclude_repo=dotfiles" />
     <img
       alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?Nikunjmiglani=Nikunjmiglani&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=380&exclude_repo=dotfiles" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=380&exclude_repo=dotfiles" />
   </picture>
 
   <br/><br/>
@@ -94,7 +94,7 @@
   <!-- Optional: Trophies (minimal, no frames) -->
   <img
     alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?Nikunjmiglani=Nikunjmiglani&no-bg=true&no-frame=true&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    src="https://github-profile-trophy.vercel.app/?username=Nikunjmiglani&no-bg=true&no-frame=true&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
