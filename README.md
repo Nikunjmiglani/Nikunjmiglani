@@ -38,11 +38,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjmiglani&theme=tokyonight" alt="streak" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikunjmiglani&theme=tokyonight" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikunjmiglani&theme=tokyonight" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikunjmiglani&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikunjmiglani&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikunjmiglani&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
+
 
 ---
 
