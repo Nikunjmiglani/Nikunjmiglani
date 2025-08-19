@@ -69,8 +69,9 @@
 
   <!-- Activity Graph (contribution activity) -->
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&theme=github-dark&hide_border=true&area=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&theme=github-dark&hide_border=true&area=false&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&custom_title=Contribution%20Graph" />
 </p>
+
 
   <picture>
     <source
