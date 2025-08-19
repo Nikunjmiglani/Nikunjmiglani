@@ -1,0 +1,22 @@
+name: Generate Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]  # Update every hour
+  workflow_dispatch:               # Allow manual update
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_streak: yes
+          plugin_followup: yes
+          plugin_habits: yes
+          plugin_achievements: yes
+          plugin_stars: yes
