@@ -13,7 +13,7 @@
 - 🔭 Currently working on **Full Stack Web Apps** (Next.js + MongoDB)  
 - 🌱 Learning **Machine Learning & Cybersecurity**  
 - 💡 Passionate about **building scalable projects** & **AI-driven solutions**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **niikkunjmiglani@gmail.com**  
 - ⚡ Fun fact: I love exploring **new tech & open-source** 🌍  
 
 ---
