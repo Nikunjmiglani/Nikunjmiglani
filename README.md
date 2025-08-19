@@ -41,4 +41,4 @@ Check out [my repositories](https://github.com/Nikunjmiglani?tab=repositories) f
 
 ---
 
-_Thanks for stopping by!_ 🌟
+Thanks for stopping by! 🌟
