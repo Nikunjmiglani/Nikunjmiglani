@@ -1,17 +1,47 @@
-# Hi there, I'm Nikunj 👋
+<h1 align="center">Hi there 👋, I'm Nikunj Miglani</h1>
+<h3 align="center">Full Stack Developer 🤖</h3>
 
-<!-- Short and punchy intro -->
-I'm a Full Stack Developer passionate about all tech.
+<p align="center">
+  <img src="https://your-image-hosting-link.com/your-pixelart.png" alt="AI/ML Enthusiast Banner" width="600"/>
+</p>
 
-- 🔭 I’m currently working on: Full Stack Developement & Cybersecurity
-- 🌱 I’m currently learning: Cybersecurity and GenAI
-- 📫 How to reach me: niikkunjmiglani@gmail.com/https://www.nikunj.space
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikunjmiglani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:niikkunjmiglani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## 💻 About Me
+
+```js
+const nikunj = {
+  name: "Nikunj Miglani",
+  role: "Full-Stack Developer",
+  location: "Building the future 🚀",
+  expertise: {
+    languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+    database: ["MongoDB", "MySQL", "Firebase"],
+    cloud: ["AWS", "Vercel", "Netlify"],
+    devops: ["Linux", "Bash", "Docker"],
+    cybersecurity: ["Kali Linux", "Wireshark", "Burp Suite", "Nmap", "Metasploit"]
+  },
+  currentlyExploring: "🤖 Machine Learning & Cybersecurity",
+  motto: "Write code that your future self will thank you for"
+};
+
+
+
 ## 🚀 Tech Stack
 
-![Your Tech Logos Here](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,next,kali,linux,cpp,c,ts,java)
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mysql,mongodb,firebase,postman,aws,tailwind,graphql,github,git" /> </p>
 
 ---
 
@@ -28,8 +58,9 @@ Check out [my repositories](https://github.com/Nikunjmiglani?tab=repositories) f
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=github_dark)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true" alt="nikunj's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" /> </p> ```
 
 ---
 
