@@ -23,10 +23,18 @@
 ---
 
 ## 📈 GitHub Vibes
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nikunjmiglani&theme=radical&hide_border=true" height="160"/>
+  <!-- Profile Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikunjmiglani&theme=radical" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikunjmiglani&theme=radical" height="180" />
 </p>
+
+<p align="center">
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&theme=radical" />
+</p>
+
 
 ---
 
