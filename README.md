@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Playground
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,python,c,cpp,java,git,linux,tailwind,ts,js,metasploitable,kali,nmap,burpsuite,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,python,c,cpp,java,git,linux,tailwind,ts,js,metasploitable,kali,html,css" />
 </p>
 
 ---
