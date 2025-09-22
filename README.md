@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Nikunj Miglani  
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nikunj%20Miglani&fontSize=40&fontAlignY=35&animation=twinkling)
 
 > Full-Stack Developer | Learning **ML ⚡ Blockchain 🔗 Cybersecurity 🔐**
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nikunj%20Miglani&fontSize=40&fontAlignY=35&animation=twinkling)
+
 
 ---
 
