@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikunj%20Miglani&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-<h3 align="center">💻 Full-Stack Developer | ⚡ ML | 🔗 Blockchain | 🔐 Cybersecurity</h3>
+<h3 align="center">💻 Full-Stack Developer | ⚡AI-ML | 🔗 Blockchain | 🔐 Cybersecurity</h3>
 
 ---
 
