@@ -1,61 +1,80 @@
-<!-- Profile Header -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikunj%20Miglani&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e1e2e,100:1b998b&fontColor=ffffff&text=Nikunj%20Miglani&fontAlignY=40&fontSize=45&animation=twinkling)
 
-<h3 align="center">💻 Full-Stack Developer | ⚡AI-ML | 🔗 Blockchain | 🔐 Cybersecurity</h3>
+<h3 align="center">Full-Stack Developer • Cybersecurity Learner • AI Explorer</h3>
 
----
-
-## 🚀 About Me
-- 🔥 Building **scalable full-stack apps**
-- 🤖 Exploring **AI / Machine Learning**
-- 🔗 Diving deep into **Blockchain**
-- 🔐 Passionate about **Cybersecurity**
-- 🌱 Continuously learning, building & shipping
-
----
-
-## 🛠️ Tech Playground
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,python,java,cpp,git,linux,tailwind,ts,js,html,css" />
+  I build practical, scalable solutions — not just “projects for resume”.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 What I Do 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=radical" height="180" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=radical" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjmiglani&theme=redical" />
-</p>
-
+- Architect and ship full-stack web apps (Next.js + MongoDB + Python when useful)
+- Automate workflows and integrate AI into real products
+- Cybersecurity: Vulnerability scanning, exploitation labs, OSINT basics
+- Focused on execution → design → deploy → iterate
 
 ---
 
-## 🎯 Fun Facts
-- ⚡ Love solving problems & breaking limits  
-- 🎧 Code + Music = Ultimate Flow  
-- 🌍 Dream: merge **Tech + Creativity** into something impactful  
+## 🧠 Skills & Tools I Actually Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,python,cpp,java,mongodb,ts,js,html,css,linux,git,tailwind,redux" />
+</p>
+
+> Constantly levelling up in : Red-Team tooling, system design, and scalable backend patterns.
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects (Actual Work)
+
+| Project | What It Does | Tech |
+|--------|---------------|------|
+| **Vulnerability Scanner** | Automated Nmap, SSL and more checks with UI results | Python • Flask • Bash |
+| **AyuTrace** | A blockchain-powered traceability system ensuring secure, transparent, and tamper-proof tracking of products from origin to end-user. | Next.js • Tailwind • Solidity • Ether.js |
+
+👉 More here: **[View repositories →](https://github.com/Nikunjmiglani?tab=repositories)**
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/Nikunjmiglani"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="https://linkedin.com/in/nikunjmiglani"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="mailto:niikkunjmiglani@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjmiglani&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
+
+## 📌 Current Focus
+
+- Building offensive + defensive security skills with a proper lab setup
+- Shipping more **production-grade** web apps, not toy demos
+- Applying AI to solve real-world problems, not just chatbots
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Nikunjmiglani"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://linkedin.com/in/nikunjmiglani"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:niikkunjmiglani@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency beats talent — execution beats intention.”</i><br/>
+  Working every day to ensure both are on my side.
+</p>
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
-
-
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b998b,100:1e1e2e&section=footer)
