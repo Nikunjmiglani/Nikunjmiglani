@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer • Cybersecurity Learner • AI Explorer</h3>
 
 <p align="center">
-  I build practical, scalable solutions — not just “projects for resume”.
+  I build practical, scalable solutions.
 </p>
 
 ---
