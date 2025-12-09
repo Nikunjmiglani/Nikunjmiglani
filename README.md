@@ -4,69 +4,67 @@
 <h3 align="center">Full-Stack Developer • Cybersecurity Learner • AI Explorer</h3>
 
 <p align="center">
-  I build practical, scalable solutions.
+  I build practical, scalable solutions — not toy demos.
 </p>
 
 ---
 
-## 🔥 What I Do 
+## 🔥 What I Do
 
-- Architect and ship full-stack web apps (Next.js + MongoDB + Python when useful)
-- Automate workflows and integrate AI into real products
-- Cybersecurity: Vulnerability scanning, exploitation labs, OSINT basics
-- Focused on execution → design → deploy → iterate
+- Engineer full-stack systems that actually ship (Next.js + MongoDB + Python where needed)
+- Automate workflows and embed AI in production
+- Cybersecurity: exploitation labs, automation, OSINT foundations
 
 ---
 
-## 🧠 Skills & Tools I Actually Use
+## 🧠 Core Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,python,cpp,java,mongodb,ts,js,html,css,linux,git,tailwind,redux" />
 </p>
 
-> Constantly levelling up in : Red-Team tooling, system design, and scalable backend patterns.
+> Leveling up: red-team tooling, scalable backend design
 
 ---
 
-## 🚀 Featured Projects (Actual Work)
+## 🚀 Featured Projects
 
-| Project | What It Does | Tech |
-|--------|---------------|------|
-| **Vulnerability Scanner** | Automated Nmap, SSL and more checks with UI results | Python • Flask • Bash |
-| **AyuTrace** | A blockchain-powered traceability system ensuring secure, transparent, and tamper-proof tracking of products from origin to end-user. | Next.js • Tailwind • Solidity • Ether.js |
+| Project | What It Solves | Tech |
+|--------|----------------|------|
+| **Vulnerability Scanner** | Automated scanning with UI + reporting | Python, Flask, Bash |
+| **AyuTrace** | Secure blockchain traceability with verifiable product history | Next.js, Tailwind, Solidity, Ether.js |
 
-👉 More here: **[View repositories →](https://github.com/Nikunjmiglani?tab=repositories)**
+👉 Repos: **https://github.com/Nikunjmiglani?tab=repositories**
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Nikunjmiglani&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  height="160"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  height="160"
+/>
+<br/>
+<img 
+  src="https://streak-stats.demolab.com?user=Nikunjmiglani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" 
+  height="160"
+/>
+
+</div>
 
 ---
 
 ## 📌 Current Focus
 
-- Building offensive + defensive security skills with a proper lab setup
-- Shipping more **production-grade** web apps, not toy demos
-- Applying AI to solve real-world problems, not just chatbots
+- Offensive + defensive security skill progression with lab environment
+- Shipping **production** apps with proper architecture & analytics
+- Using AI where it gives real advantage — not hype
 
 ---
 
@@ -81,9 +79,8 @@
 ---
 
 <p align="center">
-  <i>“Consistency beats talent — execution beats intention.”</i><br/>
-  Working every day to ensure both are on my side.
+  <i>Execution > ideas. Consistency > motivation.</i><br/>
+  Building skills that compound.
 </p>
 
-<!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b998b,100:1e1e2e&section=footer)
