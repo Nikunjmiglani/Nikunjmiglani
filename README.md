@@ -42,13 +42,22 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nikunjmiglani&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmiglani&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjmiglani&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Nikunjmiglani&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
