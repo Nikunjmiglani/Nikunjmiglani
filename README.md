@@ -64,7 +64,7 @@
 
 - Offensive + defensive security skill progression with lab environment
 - Shipping **production** apps with proper architecture & analytics
-- Using AI where it gives real advantage — not hype
+- Using AI where it gives real advantage
 
 ---
 
