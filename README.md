@@ -30,7 +30,7 @@
 | **Home SOC Lab** | Self-built SOC with Wazuh detection rules mapped to MITRE ATT&CK + Python threat-intel enrichment | Wazuh, SIEM, Python, MITRE ATT&CK |
 | **Vulnerability Scanner** | Automated scanning with UI + reporting | Python, Flask, Bash |
 | **AyuTrace** | Secure blockchain traceability with verifiable product history | Next.js, Tailwind, Solidity, Ether.js |
-| **HireVexa Consultancy** | Job placement + LMS platform for a consultancy client, built end-to-end | Next.js, Prisma, PostgreSQL, Vercel |
+
 
 👉 Repos: **https://github.com/Nikunjmiglani?tab=repositories**
 
